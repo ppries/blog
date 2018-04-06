@@ -3,8 +3,8 @@ permalink: /blog/:title
 
 
 # My variables
-name: Philip Pries Henningsen
-description: Learning about learning
+name: philip pries henningsen
+description: learning about learning
 google_verification: null
 
 
@@ -24,4 +24,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+  # syntax_highlighter: rouge
 highlighter: rouge
+
